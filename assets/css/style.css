@@ -1,0 +1,26 @@
+body {
+  font-family: 'Dosis';
+  color: #373A3C
+}
+
+header {
+  background-image: url('../img/camila2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 324px;
+}
+hr {
+
+  background-color: #373A3C;
+  height: 1px;
+  width: 6%;
+
+}
+
+.logo{
+
+font-size: 40px;
+
+
+}
