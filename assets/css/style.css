@@ -1,3 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#exp {
+}
+
+#work{
+}
+#contact{
+}
+
 body {
   font-family: 'Dosis';
   color: #373A3C
@@ -22,5 +34,10 @@ hr {
 
 font-size: 40px;
 
+
+}
+
+.texto-nav{
+font-size: 20px;
 
 }
